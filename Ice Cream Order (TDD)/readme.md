@@ -10,4 +10,4 @@ the program is for an ice cream shop that can.
 - the (IceCream(first_before_edit)) is the program before landing the first refactor (the test fails)
 
 
->>To run the test just run the init_test.py
+## To run the test just run the init_test.py
