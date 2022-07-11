@@ -1,4 +1,4 @@
-###The Directory contains two supdirectories.
+### The Directory contains two supdirectories.
 
 the program is for an ice cream shop that can.
 -add or remove its items (Icecreams).
