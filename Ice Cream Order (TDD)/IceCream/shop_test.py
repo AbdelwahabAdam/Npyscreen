@@ -37,9 +37,6 @@ class shopTestCases(unittest.TestCase):
         self.shop.add_ice(10)
         self.assertEqual(self.shop.quantity,110,msg='shop quantity is not correct after adding ice')
 
-if __name__ == '__main__':
-    unittest.main()
-
 
 
     

@@ -89,6 +89,3 @@ class ShoppingCartTestCases(unittest.TestCase):
         self.customer.checkout(10)
         self.assertEqual(self.customer.checkout(10),0, msg='check out reminder is not correct') ## error
 
-
-if __name__ == '__main__':
-    unittest.main()

@@ -118,5 +118,3 @@ class CustomersTestCases(unittest.TestCase):
                          msg='cart is not empty after  check out2')  # error
 
 
-if __name__ == '__main__':
-    unittest.main()
